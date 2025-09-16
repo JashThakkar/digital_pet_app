@@ -86,7 +86,7 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         Image.network(
-                        'https://png.pngtree.com/png-clipart/20230513/ourmid/pngtree-smile-dog-on-white-background-png-image_7096061.png',
+                        'https://unsplash.com/photos/dog-running-on-beach-during-daytime-yihlaRCCvd4',
                         width: 150,
                         height: 160,
                         ),
