@@ -86,18 +86,9 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         Image.network(
-                        'https://images.unsplash.com/photo-1638718619061-54b56803f459?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+                        'https://png.pngtree.com/png-clipart/20230513/ourmid/pngtree-smile-dog-on-white-background-png-image_7096061.png',
                         width: 150,
                         height: 160,
-                        ),
-                        SizedBox(
-                          width: 260,
-                          child: TextField(
-                            decoration: const InputDecoration(
-                              labelText: 'Enter a caption',
-                              border: OutlineInputBorder(),
-                            ),
-                          ),
                         ),
                       ],
                     ),
@@ -116,18 +107,9 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         Image.network(
-                        'https://images.unsplash.com/photo-1638718619061-54b56803f459?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+                        'https://t3.ftcdn.net/jpg/02/36/99/22/360_F_236992283_sNOxCVQeFLd5pdqaKGh8DRGMZy7P4XKm.jpg',
                         width: 150,
                         height: 160,
-                        ),
-                        SizedBox(
-                          width: 260,
-                          child: TextField(
-                            decoration: const InputDecoration(
-                              labelText: 'Enter a caption',
-                              border: OutlineInputBorder(),
-                            ),
-                          ),
                         ),
                       ],
                     ),
@@ -146,18 +128,9 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         Image.network(
-                        'https://images.unsplash.com/photo-1638718619061-54b56803f459?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+                        'https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg?h=430&w=710&hash=7FEB820D235A44B76B271060E03572C7',
                         width: 150,
                         height: 160,
-                        ),
-                        SizedBox(
-                          width: 260,
-                          child: TextField(
-                            decoration: const InputDecoration(
-                              labelText: 'Enter a caption',
-                              border: OutlineInputBorder(),
-                            ),
-                          ),
                         ),
                       ],
                     ),
@@ -181,15 +154,6 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                         'https://images.unsplash.com/photo-1638718619061-54b56803f459?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
                         width: 150,
                         height: 160,
-                        ),
-                        SizedBox(
-                          width: 260,
-                          child: TextField(
-                            decoration: const InputDecoration(
-                              labelText: 'Enter a caption',
-                              border: OutlineInputBorder(),
-                            ),
-                          ),
                         ),
                       ],
                     ),
