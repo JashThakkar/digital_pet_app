@@ -128,7 +128,7 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         Image.network(
-                        'https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg?h=430&w=710&hash=7FEB820D235A44B76B271060E03572C7',
+                        'https://t4.ftcdn.net/jpg/01/66/10/03/360_F_166100342_KbTGIRrnrlwGDZSXSMpH3zfn2dxyTKae.jpg',
                         width: 150,
                         height: 160,
                         ),
@@ -151,7 +151,7 @@ class __TabsNonScrollableDemoState extends State<_TabsNonScrollableDemo>
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         Image.network(
-                        'https://images.unsplash.com/photo-1638718619061-54b56803f459?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+                        'https://media.istockphoto.com/id/115962508/photo/zebra.jpg?s=612x612&w=0&k=20&c=edasI8Wc4_BQ1KL9Mw2LL__MdtnecACK0Znh5rDRpHU=',
                         width: 150,
                         height: 160,
                         ),
